@@ -1,9 +1,11 @@
+import './App.css'
+
 function App() {
   return (
-    <div>
-      <h1>Welcome to ERP Demo App</h1>
+    <div className="App">
+      <h1>ERP App Loaded Successfully!</h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
